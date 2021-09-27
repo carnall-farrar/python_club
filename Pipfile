@@ -10,4 +10,6 @@ pandas = "*"
 numpy = "*"
 matplotlib = "*"
 jupyterlab = "*"
+plotly = "*"
+ipywidgets = "*"
 
