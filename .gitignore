@@ -9,7 +9,6 @@ models/__pycache__/
 *.zip
 *.pptx
 *.pdf
-data/*
 outputs/*
 */*.ipynb_checkpoints
 venv/**
