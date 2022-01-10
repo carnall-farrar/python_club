@@ -8,11 +8,6 @@ Materials for course in data analysis using python and pandas.
 * Variable asignment
 * In-built data structures, including lists and dictionaries
 
-### Command line and programming environments
-* Unix terminal
-* Installing and launching jupyter
-* Python environments
-
 ### Pandas
 * Reading in and inspecting data
 * Accessing columns
@@ -36,3 +31,9 @@ Materials for course in data analysis using python and pandas.
 
 ### Geospacial maps
 * Map visualisation with plotly
+
+### Other archived lessons
+## Command line and programming environments
+* Unix terminal
+* Installing and launching jupyter
+* Python environments
