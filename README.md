@@ -29,7 +29,7 @@ Materials for course in data analysis using python and pandas.
 * Pandas plotting
 * Formatting tips
 
-### Geospacial maps
+### Geospatial maps
 * Map visualisation with plotly
 
 ### Other archived lessons
