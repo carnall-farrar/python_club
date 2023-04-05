@@ -24,16 +24,31 @@ Once you have conda please following these steps:
    ```
    cd python_club
    ```
-5. Install the conda environment
+
+5. Install Jupyter Notebook / Lab in the conda base environment
+
+Installing Jupyter Notebook (default)
+   ```
+   conda install -c conda-forge notebook
+   conda install -c conda-forge nb_conda_kernels
+   ```
+
+Installing Jupyter Lab
+   ```
+   conda install -c conda-forge jupyterlab
+   conda install -c conda-forge nb_conda_kernels
+   ```
+
+6. Install the conda environment
    ```
    conda env create -f environment.yml
    ```
 
-6. Navigate into the map_making folder
+7. Navigate into the map_making folder
    ```
    cd map_making
    ```
-7. Open jupyter notebook from the terminal and this will open in your internet browser
+8. Open jupyter notebook from the terminal and this will open in your internet browser
 
     This command is used to open with default kernel as your conda environment
    ```
@@ -41,3 +56,5 @@ Once you have conda please following these steps:
    ```
 
 8. Open lsoa_map_making.ipynb notebook and you can now make your map!
+
+Default geography level in the notebook is LSOA but you can update this to the geography level you want.
